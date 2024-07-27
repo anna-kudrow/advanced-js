@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: cornsilk;
+  color: rgb(89, 22, 151);
+  padding-top: 100px;
+}
+
+.reviews {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.send__review {
+  margin-bottom: 40px;
+}
+
+.review__button {
+  padding: 10px;
+  border-radius: 10px;
+  border: transparent;
+  background-color: rgb(148, 95, 198);
+  color: cornsilk;
+  text-transform: uppercase;
+}
