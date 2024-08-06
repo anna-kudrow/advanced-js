@@ -1,0 +1,21 @@
+body {
+  background-color: aquamarine;
+}
+
+.add-review-block {
+  display: flex;
+  flex-flow: column;
+  width: 300px;
+  margin: 0 auto;
+  gap: 20px;
+  padding: 40px;
+}
+
+.add-button {
+  width: 100px;
+  height: 40px;
+  border-radius: 8px;
+  border: transparent;
+  background-color: #f8f497;
+  align-self: center;
+}
